@@ -1,3 +1,17 @@
 
 # Ignore dynaconf secret files
 .secrets.*
+
+# python git ignore standard things
+*.py[cod]
+*$py.class
+*.so
+*.egg-info
+dist
+build
+__pycache__
+*.egg
+*.egg-info
+*.egg-info/*
+
+
