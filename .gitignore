@@ -3,8 +3,8 @@
 .secrets.*
 
 # python git ignore standard things
-*.py[cod]
-*$py.class
+# *.py[cod]
+# *$py.class
 *.so
 *.egg-info
 dist
